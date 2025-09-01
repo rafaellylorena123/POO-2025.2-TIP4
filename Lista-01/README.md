@@ -1,68 +1,30 @@
-# POO-2025.2-TIP4
+# Exercícios de Programação Orientada a Objetos
 
-# Dados
-- Disicplina: Programação Orientada a Objetos
-- Professor: Roger Moura Sarmento
-- Instituição: IFCE Campus Maranguape
+### Este repositório contém os exercícios propostos e exercícios resolvidos do livro 📚"Fundamentos da Programação de Computadores".                           
 
-# Membros da Equipe  
-- [Débora Liah Uchoa Pereira](https://github.com/deboraliah)  
-- [Ana Naylane Sousa Magalhães](https://github.com/naayxz)
-- [Rafaelly Lorena Barros dos Santos](https://github.com/rafaellylorena123)
+##  Exercicios Resolvidos:
 
-- Este projeto é uma implementação de Programação Orientada a Objetos (POO) utilizando a linguagem Java no ambiente de desenvolvimento Eclipse. O objetivo do trabalho é resolver 10 questões dos exercícios resolvidos e 5 questões dos exercícios propostos da apostila Fundamentos da Programação de Computadores, aplicando conceitos fundamentais de POO.
+| Nº   | Enunciado:                                                                                   |
+|------|-----------------------------------------------------------------------------------------------|
+| Q01  | Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números. |
+| Q02  | Faça um programa que receba três notas, calcule e mostre a média aritmética.                 |
+| Q03  | Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada. |
+| Q04  | Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%. |
+| Q05  | Faça um programa que receba o salário de um funcionário e o percentual de aumento, calcule e mostre o valor do aumento e o novo salário. |
+| Q06  | Faça um programa que receba o salário base de um funcionário, calcule e mostre o salário a receber, sabendo-se que o funcionário tem gratificação de 5% sobre o salário base e paga imposto de 7% também sobre o salário base. |
+| Q07  | Faça um programa que receba o salário base de um funcionário, calcule e mostre seu salário a receber, sabendo-se que o funcionário tem gratificação de R$ 50 e paga imposto de 10% sobre o salário base. |
+| Q08  | Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e mostre o valor do rendimento e o valor total depois do rendimento. |
+| Q09  | Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura)/2. |
+| Q10  | Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = π * R². |
 
-# Objetivo
+---
 
-- O objetivo deste projeto é reforçar a compreensão dos conceitos de POO através da prática, utilizando a linguagem Java para resolver problemas práticos. Cada exercício foi projetado para trabalhar diferentes aspectos da programação orientada a objetos, e os problemas foram resolvidos com o auxílio do Eclipse como ambiente de desenvolvimento.
-  
-# Tecnologias Utilizadas:
+##  Exercícios Propostos
 
-- Linguagem: Java
-- IDE: Eclipse IDE 
-
-# Estrutura do Projeto
-
-- Este repositório contém a implementação de cada exercício resolvido e proposto da apostila. A estrutura do projeto no Eclipse foi organizada da seguinte forma:
-
-- A pasta Exercicios-Resolvidos/ contém as soluções para as questões dos exercícios resolvidos da apostila.
-
-- A pasta Exercicios-Propostos/ contém as soluções para as questões dos exercícios propostos da apostila.
-
-```text
-.
-│
-├── Lista-01/
-│   ├── Exercicios-Resolvidos/
-│   │   ├── Q01/
-│   │   ├── Q02/
-│   │   ├── ... Q10/
-│   │
-│   ├── Exercicios-Propostos/
-│   │   ├── Q01/
-│   │   ├── Q02/
-│   │   ├── ... Q05/
-│   │
-│   └── README.md
-│
-├── Lista-02/
-│   ├── Exercicios-Resolvidos/
-│   │   ├── Q01/
-│   │   ├── Q02/
-│   │   ├── ... Q10/
-│   │
-│   ├── Exercicios-Propostos/
-│   │   ├── Q01/
-│   │   ├── Q02/
-│   │   ├── ... Q05/
-│   │
-│   └── README.md
-│
-├── Lista-03/
-│   ├── Exercicios-Resolvidos/
-│   │   ├── Q01/
-│   │   ├── Q02/
-│   │   ├── ... Q10/
-│   │
-│   └── README.md
-└── README.md
+| Nº   | Enunciado                                                                                     |
+|------|-----------------------------------------------------------------------------------------------|
+| Q01  | Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo segundo. |
+| Q02  | Faça um programa que receba três números, calcule e mostre a multiplicação desses números.     |
+| Q03  | Faça um programa que receba dois números, calcule e mostre a divisão do primeiro número pelo segundo. |
+| Q04  | Faça um programa que receba duas notas, calcule e mostre a média ponderada dessas notas, considerando peso 2 para a primeira e peso 3 para a segunda. |
+| Q05  | Faça um programa que receba o preço de um produto, calcule e mostre o novo preço, sabendo-se que este sofreu um desconto de 10%. |
